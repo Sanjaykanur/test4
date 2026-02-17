@@ -8,7 +8,7 @@ public class Test4Application {
 
 	public static void main(String[] args) {
 		System.out.println("Welcome");
-		x=10;
+		System.out.println("Welcome");
 		SpringApplication.run(Test4Application.class, args);
 	}
 
